@@ -77,12 +77,11 @@ section p{
 }
 .gift-items img{
     display: inline-block;
-    width: 20%;
+    width: 21%;
     height: 210px; 
     margin: 10px; 
     vertical-align: middle;
     border-radius: 5px;
-    box
 }
 
 .gift-items h2 a{
